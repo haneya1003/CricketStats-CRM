@@ -4,4 +4,4 @@ CRICKSTATS is a cloud-based cricket player performance tracking application deve
 The application utilizes custom objects (Player and Match Performance), Master-Detail relationships, roll-up summary fields, validation rules, and Salesforce Flows to maintain data integrity and automate statistical calculations. Interactive reports and dashboards enable coaches and analysts to monitor trends, evaluate performance, and support data-driven decision-making.
 Developed using an Agile-based sprint methodology, CRICKSTATS demonstrates practical implementation of SDLC principles, CRM-based data modeling, and cloud-native performance analytics within a scalable and secure Salesforce environment.
 
-https://drive.google.com/file/d/10EX0LLM5ZRvG38M_IEF8V6nEC_wyAd9Q/view?usp=sharing
+https://drive.google.com/drive/folders/17t1Gz88QQmW0r1AsJ4-dxXU3AT-cGYIG?usp=sharing
